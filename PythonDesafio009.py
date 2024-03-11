@@ -1,0 +1,15 @@
+#faça um programa que leia um numero inteiro qualquer e mostre a sua tabuada
+
+numeb = int(input("Digite um Numero: "))
+print("-" * 12)
+print("{} x {:2} = {}".format(numeb, 1, numeb*1))
+print("{} x {:2} = {}".format(numeb, 2, numeb*2))
+print("{} x {:2} = {}".format(numeb, 3, numeb*3))
+print("{} x {:2} = {}".format(numeb, 4, numeb*4))
+print("{} x {:2} = {}".format(numeb, 5, numeb*5))
+print("{} x {:2} = {}".format(numeb, 6, numeb*6))
+print("{} x {:2} = {}".format(numeb, 7, numeb*7))
+print("{} x {:2} = {}".format(numeb, 8, numeb*8))
+print("{} x {:2} = {}".format(numeb, 9, numeb*9))
+print("{} x {:2} = {}".format(numeb, 10, numeb*10))
+print("-" * 12)
